@@ -14,3 +14,18 @@ I will divide this repository into 10 parts, from the basics to advanced Python.
 
 Index:-
 
+
+
+
+
+Practice Sites for Python:
+<br>
+Hacker Rank - https://www.hackerrank.com/domains/python
+
+<br>
+Leet Code - https://leetcode.com/problems/reverse-integer/
+<br>
+
+
+
+
