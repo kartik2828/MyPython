@@ -5,3 +5,4 @@ l1 = [(1, 2), (3, 1), (4, 5), (2, 3)]
 
 sorted_list = sorted(l1, key =lambda x:x[1])
 print(sorted_list)
+
